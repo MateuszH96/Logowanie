@@ -1,0 +1,15 @@
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.exe
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.deps.json
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.runtimeconfig.json
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.runtimeconfig.dev.json
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.dll
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\bin\Debug\netcoreapp3.1\Logowanie.pdb
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.csprojAssemblyReference.cache
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.Form1.resources
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.AssemblyInfoInputs.cache
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.AssemblyInfo.cs
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.dll
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.pdb
+C:\Users\13-19 lat\source\repos\Logowanie\Logowanie\obj\Debug\netcoreapp3.1\Logowanie.genruntimeconfig.cache
